@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260427184400JFPZWU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260427184400X7W22K</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PRODUCTO FINAL SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>curso de actualización de CDD</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Calatayud Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>it</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777308199206</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mohfaacc-gyvxwy40t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Entrena, analiza y mejora: tu evolución paso a paso</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Entrena, analiza y mejora: tu evolución paso a paso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Entrena, analiza y mejora: tu evolución paso a paso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Entrena, analiza y mejora: tu evolución paso a paso</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaacc-gyvxwy40t</odePageId>
+      <odeBlockId>block-1777294389799-rq0ajx2t2</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaacc-gyvxwy40t</odePageId>
+          <odeBlockId>block-1777294389799-rq0ajx2t2</odeBlockId>
+          <odeIdeviceId>idevice-1777294389795-0zp622bwx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Materia: Educación Física<br />Nivel: 3º ESO<br />Autor: María Calatayud Rodríguez<br />Curso: Competencia Digital Docente B2</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777294389795-0zp622bwx","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>Materia: Educación Física<br />Nivel: 3º ESO<br />Autor: María Calatayud Rodríguez<br />Curso: Competencia Digital Docente B2</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaacd-xzoujvztl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaacd-xzoujvztl</odePageId>
+      <odeBlockId>block-1777294774456-ocm3yriox</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaacd-xzoujvztl</odePageId>
+          <odeBlockId>block-1777294774456-ocm3yriox</odeBlockId>
+          <odeIdeviceId>idevice-1777294774454-u39b54wxt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título del proyecto</strong>:<br />Entrena, analiza y mejora: tu evolución paso a paso</p>
+<p><strong>Etapa y nivel</strong>:<br />Educación Secundaria Obligatoria – 3º ESO</p>
+<p><strong>Área/Materia:</strong><br />Educación Física</p>
+<p><strong>Temporalización</strong>:<br />6 sesiones</p>
+<p><strong>Idioma</strong>:<br />Castellano</p>
+<p> <br /><strong>Descripción del proyecto</strong><br />En este proyecto el alumnado trabajará la mejora de su propio rendimiento físico a través del análisis del movimiento. Para ello, realizará grabaciones de diferentes ejercicios físicos, observará su ejecución y detectará posibles errores o aspectos a mejorar.</p>
+<p>A partir de este análisis, el alumnado propondrá soluciones y elaborará un producto final digital en el que reflejará su evolución, utilizando herramientas digitales de forma responsable y crítica.</p>
+<p> <br /><strong>Justificación</strong><br />Este proyecto se basa en un enfoque competencial, en el que el alumnado no solo ejecuta ejercicios físicos, sino que reflexiona sobre su propio aprendizaje. Se fomenta el uso de tecnologías digitales como herramienta de análisis, mejora y comunicación.</p>
+<p>Además, se promueve el trabajo colaborativo, la autonomía del alumnado y el desarrollo de la competencia digital, adaptándose a su realidad y motivaciones.</p>
+<p> <br /><strong>Objetivos del proyecto</strong><br />Analizar la ejecución de movimientos físicos propios.<br />Identificar errores y proponer mejoras.<br />Utilizar herramientas digitales para grabar, analizar y presentar información.<br />Trabajar de forma colaborativa respetando a los compañeros.<br />Desarrollar una actitud crítica y reflexiva sobre el propio aprendizaje.<br /> <br /><strong>Metodología</strong><br />Se empleará una metodología activa y participativa basada en el aprendizaje por proyectos. El alumnado trabajará en pequeños grupos, utilizando herramientas digitales para analizar su rendimiento y crear un producto final.</p>
+<p>El docente actuará como guía durante el proceso, facilitando recursos, orientando el trabajo y ofreciendo feedback continuo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777294774454-u39b54wxt","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p><strong>Título del proyecto</strong>:<br />Entrena, analiza y mejora: tu evolución paso a paso</p>\n<p><strong>Etapa y nivel</strong>:<br />Educación Secundaria Obligatoria – 3º ESO</p>\n<p><strong>Área/Materia:</strong><br />Educación Física</p>\n<p><strong>Temporalización</strong>:<br />6 sesiones</p>\n<p><strong>Idioma</strong>:<br />Castellano</p>\n<p> <br /><strong>Descripción del proyecto</strong><br />En este proyecto el alumnado trabajará la mejora de su propio rendimiento físico a través del análisis del movimiento. Para ello, realizará grabaciones de diferentes ejercicios físicos, observará su ejecución y detectará posibles errores o aspectos a mejorar.</p>\n<p>A partir de este análisis, el alumnado propondrá soluciones y elaborará un producto final digital en el que reflejará su evolución, utilizando herramientas digitales de forma responsable y crítica.</p>\n<p> <br /><strong>Justificación</strong><br />Este proyecto se basa en un enfoque competencial, en el que el alumnado no solo ejecuta ejercicios físicos, sino que reflexiona sobre su propio aprendizaje. Se fomenta el uso de tecnologías digitales como herramienta de análisis, mejora y comunicación.</p>\n<p>Además, se promueve el trabajo colaborativo, la autonomía del alumnado y el desarrollo de la competencia digital, adaptándose a su realidad y motivaciones.</p>\n<p> <br /><strong>Objetivos del proyecto</strong><br />Analizar la ejecución de movimientos físicos propios.<br />Identificar errores y proponer mejoras.<br />Utilizar herramientas digitales para grabar, analizar y presentar información.<br />Trabajar de forma colaborativa respetando a los compañeros.<br />Desarrollar una actitud crítica y reflexiva sobre el propio aprendizaje.<br /> <br /><strong>Metodología</strong><br />Se empleará una metodología activa y participativa basada en el aprendizaje por proyectos. El alumnado trabajará en pequeños grupos, utilizando herramientas digitales para analizar su rendimiento y crear un producto final.</p>\n<p>El docente actuará como guía durante el proceso, facilitando recursos, orientando el trabajo y ofreciendo feedback continuo.</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaace-oewxh4g5l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿QUÉ VAS A APRENDER?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAS A APRENDER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAS A APRENDER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaace-oewxh4g5l</odePageId>
+      <odeBlockId>block-1777295094357-7o2zfz5co</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaace-oewxh4g5l</odePageId>
+          <odeBlockId>block-1777295094357-7o2zfz5co</odeBlockId>
+          <odeIdeviceId>idevice-1777295094354-uija6dfvs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Qué vas a aprender?<br />A lo largo de este proyecto vas a desarrollar diferentes habilidades relacionadas con la actividad física y el uso de herramientas digitales.</p>
+<p> <br />Aprendizajes principales<br />Analizar tu propio movimiento al realizar ejercicios físicos.<br />Identificar errores en la ejecución y proponer mejoras.<br />Comparar tu técnica con modelos correctos.<br />Aplicar estrategias para mejorar tu rendimiento físico.<br /> <br />Competencia digital<br />Utilizar dispositivos para grabar y analizar vídeos.<br />Buscar y seleccionar información útil en internet.<br />Crear contenido digital (presentaciones o infografías).<br />Usar la tecnología de forma responsable y segura.<br /> <br />Trabajo en equipo<br />Colaborar con tus compañeros para analizar movimientos.<br />Compartir ideas y respetar diferentes opiniones.<br />Ayudar a mejorar el trabajo del grupo.<br /> <br />Aprender a aprender<br />Reflexionar sobre tu propio proceso de mejora.<br />Detectar tus puntos fuertes y aspectos a mejorar.<br />Ser capaz de autoevaluarte y mejorar progresivamente.<br /> <br />Actitud y valores<br />Respetar a tus compañeros durante las grabaciones.<br />Cuidar el material y los dispositivos utilizados.<br />Mantener una actitud positiva y participativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777295094354-uija6dfvs","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>¿Qué vas a aprender?<br />A lo largo de este proyecto vas a desarrollar diferentes habilidades relacionadas con la actividad física y el uso de herramientas digitales.</p>\n<p> <br />Aprendizajes principales<br />Analizar tu propio movimiento al realizar ejercicios físicos.<br />Identificar errores en la ejecución y proponer mejoras.<br />Comparar tu técnica con modelos correctos.<br />Aplicar estrategias para mejorar tu rendimiento físico.<br /> <br />Competencia digital<br />Utilizar dispositivos para grabar y analizar vídeos.<br />Buscar y seleccionar información útil en internet.<br />Crear contenido digital (presentaciones o infografías).<br />Usar la tecnología de forma responsable y segura.<br /> <br />Trabajo en equipo<br />Colaborar con tus compañeros para analizar movimientos.<br />Compartir ideas y respetar diferentes opiniones.<br />Ayudar a mejorar el trabajo del grupo.<br /> <br />Aprender a aprender<br />Reflexionar sobre tu propio proceso de mejora.<br />Detectar tus puntos fuertes y aspectos a mejorar.<br />Ser capaz de autoevaluarte y mejorar progresivamente.<br /> <br />Actitud y valores<br />Respetar a tus compañeros durante las grabaciones.<br />Cuidar el material y los dispositivos utilizados.<br />Mantener una actitud positiva y participativa.</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaace-4yrtl3e7p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaace-4yrtl3e7p</odePageId>
+      <odeBlockId>block-1777295797334-cxe1tr2iz</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaace-4yrtl3e7p</odePageId>
+          <odeBlockId>block-1777295797334-cxe1tr2iz</odeBlockId>
+          <odeIdeviceId>idevice-1777295797331-rldlwx1jt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto vas a convertirte en protagonista de tu propio aprendizaje. El objetivo es analizar tu ejecución en un ejercicio físico y mejorarla utilizando herramientas digitales.</p>
+<p> <br /><strong>¿Qué tienes que hacer?</strong><br />Grabar un ejercicio físico (por ejemplo: salto, carrera, lanzamiento, etc.).<br />Analizar tu ejecución observando posibles errores o aspectos a mejorar.<br />Comparar tu movimiento con un modelo correcto (vídeos o ejemplos).<br />Proponer mejoras para corregir esos errores.<br />Crear un producto digital donde expliques todo el proceso.<br /> <br /><strong>¿Cómo será el producto final?</strong><br />Deberás elaborar una presentación digital o infografía donde incluyas:</p>
+<p>Imagen o vídeo de tu ejecución<br />Análisis de errores detectados<br />Explicación de las mejoras propuestas<br />Reflexión sobre tu evolución<br />Puedes utilizar herramientas como Canva o Genially para realizarlo.</p>
+<p> <br /><strong>¿Cómo trabajarás?</strong><br />Trabajarás en pequeños grupos<br />Colaborarás con tus compañeros para analizar los movimientos<br />Respetarás las opiniones de los demás<br />Utilizarás la tecnología de forma responsable<br /> <br /><strong>¿Qué aprenderás?</strong><br />Analizar tu propio movimiento<br />Detectar errores y mejorar tu técnica<br />Utilizar herramientas digitales para crear contenido<br />Trabajar en equipo<br />Reflexionar sobre tu aprendizaje<br /> <br /><strong>Importante</strong><br />No se pueden compartir vídeos fuera del aula sin permiso<br />Respeta siempre la privacidad de tus compañeros<br />Usa los dispositivos solo con fines educativos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777295797331-rldlwx1jt","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>En este proyecto vas a convertirte en protagonista de tu propio aprendizaje. El objetivo es analizar tu ejecución en un ejercicio físico y mejorarla utilizando herramientas digitales.</p>\n<p> <br /><strong>¿Qué tienes que hacer?</strong><br />Grabar un ejercicio físico (por ejemplo: salto, carrera, lanzamiento, etc.).<br />Analizar tu ejecución observando posibles errores o aspectos a mejorar.<br />Comparar tu movimiento con un modelo correcto (vídeos o ejemplos).<br />Proponer mejoras para corregir esos errores.<br />Crear un producto digital donde expliques todo el proceso.<br /> <br /><strong>¿Cómo será el producto final?</strong><br />Deberás elaborar una presentación digital o infografía donde incluyas:</p>\n<p>Imagen o vídeo de tu ejecución<br />Análisis de errores detectados<br />Explicación de las mejoras propuestas<br />Reflexión sobre tu evolución<br />Puedes utilizar herramientas como Canva o Genially para realizarlo.</p>\n<p> <br /><strong>¿Cómo trabajarás?</strong><br />Trabajarás en pequeños grupos<br />Colaborarás con tus compañeros para analizar los movimientos<br />Respetarás las opiniones de los demás<br />Utilizarás la tecnología de forma responsable<br /> <br /><strong>¿Qué aprenderás?</strong><br />Analizar tu propio movimiento<br />Detectar errores y mejorar tu técnica<br />Utilizar herramientas digitales para crear contenido<br />Trabajar en equipo<br />Reflexionar sobre tu aprendizaje<br /> <br /><strong>Importante</strong><br />No se pueden compartir vídeos fuera del aula sin permiso<br />Respeta siempre la privacidad de tus compañeros<br />Usa los dispositivos solo con fines educativos</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaacf-sic1956fr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS PARA EL ALUMNADO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECUSRSOS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RECURSOS PARA EL ALUMNADO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaacf-sic1956fr</odePageId>
+      <odeBlockId>block-1777295999363-ebb9k6nnn</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaacf-sic1956fr</odePageId>
+          <odeBlockId>block-1777295999363-ebb9k6nnn</odeBlockId>
+          <odeIdeviceId>idevice-1777295999360-eaan7muj9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para ayudarte en la realización de este proyecto, dispones de una recopilación de recursos digitales donde encontrarás vídeos, ejemplos, herramientas y materiales de apoyo.</p>
+<p>Accede a los recursos en el siguiente enlace:</p>
+<p>https://padlet.com/mariacalatay2/recursos-para-analizar-y-mejorar-el-movimiento-educacion-fis-gep9gdg3zkdubiab</p>
+<p>En este espacio encontrarás:</p>
+<p>Vídeos explicativos sobre técnica y ejecución de ejercicios<br />Ejemplos de análisis de movimiento<br />Herramientas digitales para crear tu producto final (Canva, Genially…)<br />Recursos de apoyo para mejorar tu trabajo<br />Se recomienda consultar estos materiales antes y durante el desarrollo del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777295999360-eaan7muj9","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>Para ayudarte en la realización de este proyecto, dispones de una recopilación de recursos digitales donde encontrarás vídeos, ejemplos, herramientas y materiales de apoyo.</p>\n<p>Accede a los recursos en el siguiente enlace:</p>\n<p>https://padlet.com/mariacalatay2/recursos-para-analizar-y-mejorar-el-movimiento-educacion-fis-gep9gdg3zkdubiab</p>\n<p>En este espacio encontrarás:</p>\n<p>Vídeos explicativos sobre técnica y ejecución de ejercicios<br />Ejemplos de análisis de movimiento<br />Herramientas digitales para crear tu producto final (Canva, Genially…)<br />Recursos de apoyo para mejorar tu trabajo<br />Se recomienda consultar estos materiales antes y durante el desarrollo del proyecto.</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaacg-a0qq2yaaw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS Y USO RESPONSABLE DE LA TECNOLOGÍA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y USO RESPONSABLE DE LA TECNOLOGÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y USO RESPONSABLE DE LA TECNOLOGÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS Y USO RESPONSABLE DE LA TECNOLOGÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaacg-a0qq2yaaw</odePageId>
+      <odeBlockId>block-1777296172734-o6i960ezk</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaacg-a0qq2yaaw</odePageId>
+          <odeBlockId>block-1777296172734-o6i960ezk</odeBlockId>
+          <odeIdeviceId>idevice-1777296172732-2ajcg48i9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto vamos a utilizar dispositivos digitales para grabar y analizar ejercicios físicos. Por ello, es muy importante respetar unas normas básicas de seguridad, privacidad y uso responsable de la tecnología.</p>
+<p> <br /><strong>Uso de imágenes y vídeos</strong><br />Las grabaciones realizadas en clase tienen un uso exclusivamente educativo.<br />No está permitido compartir vídeos o imágenes fuera del aula sin autorización.<br />Siempre debes pedir permiso antes de grabar a otra persona.<br />Respeta la privacidad y la imagen de tus compañeros.<br /> <br /><strong>Protección de datos personales</strong><br />No se deben compartir datos personales (nombre completo, teléfono, redes sociales, etc.).<br />Evita subir contenidos a internet sin supervisión del profesorado.<br />Utiliza únicamente las herramientas digitales indicadas para la actividad.<br /> <br /><strong>Uso responsable de la tecnología</strong><br />Utiliza los dispositivos solo para la realización del proyecto.<br />Cuida el material tecnológico del centro y de tus compañeros.<br />Evita distracciones (redes sociales, juegos, etc.) durante la actividad.<br /> <br /><strong>Comportamiento digital adecuado</strong><br />Mantén una actitud respetuosa en todo momento.<br />No grabes situaciones inapropiadas o sin consentimiento.<br />Usa un lenguaje adecuado en los trabajos digitales.<br /> <br /><strong>Importante</strong><br />El uso correcto de la tecnología forma parte de tu aprendizaje. Respetar estas normas es fundamental para garantizar un entorno seguro, responsable y respetuoso para todos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777296172732-2ajcg48i9","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>En este proyecto vamos a utilizar dispositivos digitales para grabar y analizar ejercicios físicos. Por ello, es muy importante respetar unas normas básicas de seguridad, privacidad y uso responsable de la tecnología.</p>\n<p> <br /><strong>Uso de imágenes y vídeos</strong><br />Las grabaciones realizadas en clase tienen un uso exclusivamente educativo.<br />No está permitido compartir vídeos o imágenes fuera del aula sin autorización.<br />Siempre debes pedir permiso antes de grabar a otra persona.<br />Respeta la privacidad y la imagen de tus compañeros.<br /> <br /><strong>Protección de datos personales</strong><br />No se deben compartir datos personales (nombre completo, teléfono, redes sociales, etc.).<br />Evita subir contenidos a internet sin supervisión del profesorado.<br />Utiliza únicamente las herramientas digitales indicadas para la actividad.<br /> <br /><strong>Uso responsable de la tecnología</strong><br />Utiliza los dispositivos solo para la realización del proyecto.<br />Cuida el material tecnológico del centro y de tus compañeros.<br />Evita distracciones (redes sociales, juegos, etc.) durante la actividad.<br /> <br /><strong>Comportamiento digital adecuado</strong><br />Mantén una actitud respetuosa en todo momento.<br />No grabes situaciones inapropiadas o sin consentimiento.<br />Usa un lenguaje adecuado en los trabajos digitales.<br /> <br /><strong>Importante</strong><br />El uso correcto de la tecnología forma parte de tu aprendizaje. Respetar estas normas es fundamental para garantizar un entorno seguro, responsable y respetuoso para todos.</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaacg-6f4a70g77</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LINEA TEMPORAL DEL PROYECTO</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LINEA TEMPORAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LINEA TEMPORAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaacg-6f4a70g77</odePageId>
+      <odeBlockId>block-1777296484827-i6c468j9g</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaacg-6f4a70g77</odePageId>
+          <odeBlockId>block-1777296484827-i6c468j9g</odeBlockId>
+          <odeIdeviceId>idevice-1777296484826-l45cqca38</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>https://canva.link/lv5u1trhzzyil5f</p>
+<p>A continuación se presenta la organización del proyecto por sesiones. Esta planificación te ayudará a saber qué vas a hacer en cada momento, cómo trabajarás y qué herramientas utilizarás.</p>
+<p> <br /><strong>Sesión 1: Introducción y análisis inicial</strong><br />Tarea: Presentación del proyecto y visualización de ejemplos de movimientos correctos.<br />Agrupamiento: Grupo clase y pequeños grupos.<br />Espacio: Aula o pista deportiva.<br />Herramientas: Vídeos, recursos del Padlet.<br />Objetivo: Comprender qué se va a trabajar y empezar a identificar errores en la ejecución.<br /> <br /><strong>Sesión 2: Grabación del movimiento</strong><br />Tarea: Grabación de un ejercicio físico (salto, carrera, lanzamiento, etc.).<br />Agrupamiento: Pequeños grupos.<br />Espacio: Pista deportiva.<br />Herramientas: Dispositivos móviles o tablets.<br />Objetivo: Obtener material visual para analizar posteriormente.<br /> <br /><strong>Sesión 3: Análisis del movimiento</strong><br />Tarea: Observación de los vídeos grabados y detección de errores.<br />Agrupamiento: Trabajo en grupo.<br />Espacio: Aula.<br />Herramientas: Vídeos grabados, recursos digitales.<br />Objetivo: Identificar aspectos a mejorar en la ejecución.<br /> <br /><strong>Sesión 4: Propuesta de mejora</strong><br />Tarea: Diseñar propuestas para mejorar la ejecución del ejercicio.<br />Agrupamiento: Grupos.<br />Espacio: Aula o pista.<br />Herramientas: Recursos del Padlet, vídeos de referencia.<br />Objetivo: Aplicar lo aprendido para mejorar el rendimiento.<br /> <br /><strong>Sesión 5: Creación del producto final</strong><br />Tarea: Elaboración de una presentación o infografía con el análisis realizado.<br />Agrupamiento: Grupos.<br />Espacio: Aula.<br />Herramientas: Canva, Genially u otras herramientas digitales.<br />Objetivo: Crear un producto digital que refleje el aprendizaje.<br /> <br /><strong>Sesión 6: Exposición y evaluación</strong><br />Tarea: Presentación del trabajo y reflexión final.<br />Agrupamiento: Grupo clase.<br />Espacio: Aula.<br />Herramientas: Presentaciones digitales.<br />Objetivo: Compartir resultados, reflexionar y evaluar el aprendizaje.<br /> <br /><strong>Importante</strong><br />Esta planificación es orientativa y puede adaptarse según el ritmo del grupo. Lo importante es participar activamente en cada sesión y aprovechar los recursos disponibles.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777296484826-l45cqca38","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p><br /></p>\n<p>https://canva.link/lv5u1trhzzyil5f</p>\n<p>A continuación se presenta la organización del proyecto por sesiones. Esta planificación te ayudará a saber qué vas a hacer en cada momento, cómo trabajarás y qué herramientas utilizarás.</p>\n<p> <br /><strong>Sesión 1: Introducción y análisis inicial</strong><br />Tarea: Presentación del proyecto y visualización de ejemplos de movimientos correctos.<br />Agrupamiento: Grupo clase y pequeños grupos.<br />Espacio: Aula o pista deportiva.<br />Herramientas: Vídeos, recursos del Padlet.<br />Objetivo: Comprender qué se va a trabajar y empezar a identificar errores en la ejecución.<br /> <br /><strong>Sesión 2: Grabación del movimiento</strong><br />Tarea: Grabación de un ejercicio físico (salto, carrera, lanzamiento, etc.).<br />Agrupamiento: Pequeños grupos.<br />Espacio: Pista deportiva.<br />Herramientas: Dispositivos móviles o tablets.<br />Objetivo: Obtener material visual para analizar posteriormente.<br /> <br /><strong>Sesión 3: Análisis del movimiento</strong><br />Tarea: Observación de los vídeos grabados y detección de errores.<br />Agrupamiento: Trabajo en grupo.<br />Espacio: Aula.<br />Herramientas: Vídeos grabados, recursos digitales.<br />Objetivo: Identificar aspectos a mejorar en la ejecución.<br /> <br /><strong>Sesión 4: Propuesta de mejora</strong><br />Tarea: Diseñar propuestas para mejorar la ejecución del ejercicio.<br />Agrupamiento: Grupos.<br />Espacio: Aula o pista.<br />Herramientas: Recursos del Padlet, vídeos de referencia.<br />Objetivo: Aplicar lo aprendido para mejorar el rendimiento.<br /> <br /><strong>Sesión 5: Creación del producto final</strong><br />Tarea: Elaboración de una presentación o infografía con el análisis realizado.<br />Agrupamiento: Grupos.<br />Espacio: Aula.<br />Herramientas: Canva, Genially u otras herramientas digitales.<br />Objetivo: Crear un producto digital que refleje el aprendizaje.<br /> <br /><strong>Sesión 6: Exposición y evaluación</strong><br />Tarea: Presentación del trabajo y reflexión final.<br />Agrupamiento: Grupo clase.<br />Espacio: Aula.<br />Herramientas: Presentaciones digitales.<br />Objetivo: Compartir resultados, reflexionar y evaluar el aprendizaje.<br /> <br /><strong>Importante</strong><br />Esta planificación es orientativa y puede adaptarse según el ritmo del grupo. Lo importante es participar activamente en cada sesión y aprovechar los recursos disponibles.</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaacg-k558fptla</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES Y TAREAS </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES Y TAREAS </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES Y TAREAS </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaacg-k558fptla</odePageId>
+      <odeBlockId>block-1777297086867-qp2k5ixyb</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaacg-k558fptla</odePageId>
+          <odeBlockId>block-1777297086867-qp2k5ixyb</odeBlockId>
+          <odeIdeviceId>idevice-1777297086866-a9jrv4m6w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de este proyecto realizarás diferentes actividades que te permitirán analizar tu movimiento, mejorar tu técnica y crear un producto digital final.</p>
+<p> <br /><strong>Actividad 1: Observación y análisis inicial</strong><br />Visualizarás vídeos de referencia sobre la correcta ejecución de ejercicios físicos.<br />Identificarás posibles errores en diferentes movimientos.<br />👉 Objetivo: Aprender a detectar errores y comprender cómo mejorar la técnica.</p>
+<p> <br /><strong>Actividad 2: Grabación del ejercicio</strong><br />Realizarás la grabación de un ejercicio físico.<br />Trabajarás en grupo para grabar a tus compañeros.<br />👉 Objetivo: Obtener material para analizar tu propio movimiento.</p>
+<p> <br /><strong>Actividad 3: Análisis del movimiento</strong><br />Observarás tu vídeo.<br />Detectarás errores en tu ejecución.<br />Compararás tu movimiento con modelos correctos.<br />👉 Objetivo: Analizar tu rendimiento y reconocer aspectos a mejorar.</p>
+<p> <br /><strong>Actividad 4: Propuesta de mejora</strong><br />Diseñarás estrategias para mejorar tu ejecución.<br />Aplicarás esas mejoras en la práctica.<br />👉 Objetivo: Mejorar tu técnica a partir del análisis realizado.</p>
+<p> <br /><strong>Actividad 5: Creación del producto final</strong><br />Elaborarás una presentación o infografía.<br />Explicarás tu proceso de mejora.<br />👉 Objetivo: Comunicar tu aprendizaje utilizando herramientas digitales.</p>
+<p> <br /><strong>Actividad 6: Exposición y reflexión</strong><br />Presentarás tu trabajo al grupo.<br />Reflexionarás sobre tu evolución durante el proyecto.<br />👉 Objetivo: Compartir resultados y valorar el aprendizaje.</p>
+<p> <br /><strong>¿Cómo trabajarás?</strong></p>
+<p>- En pequeños grupos<br />- De forma colaborativa<br />- Utilizando herramientas digitales<br />- Respetando a tus compañeros y el material</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777297086866-a9jrv4m6w","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>A lo largo de este proyecto realizarás diferentes actividades que te permitirán analizar tu movimiento, mejorar tu técnica y crear un producto digital final.</p>\n<p> <br /><strong>Actividad 1: Observación y análisis inicial</strong><br />Visualizarás vídeos de referencia sobre la correcta ejecución de ejercicios físicos.<br />Identificarás posibles errores en diferentes movimientos.<br />👉 Objetivo: Aprender a detectar errores y comprender cómo mejorar la técnica.</p>\n<p> <br /><strong>Actividad 2: Grabación del ejercicio</strong><br />Realizarás la grabación de un ejercicio físico.<br />Trabajarás en grupo para grabar a tus compañeros.<br />👉 Objetivo: Obtener material para analizar tu propio movimiento.</p>\n<p> <br /><strong>Actividad 3: Análisis del movimiento</strong><br />Observarás tu vídeo.<br />Detectarás errores en tu ejecución.<br />Compararás tu movimiento con modelos correctos.<br />👉 Objetivo: Analizar tu rendimiento y reconocer aspectos a mejorar.</p>\n<p> <br /><strong>Actividad 4: Propuesta de mejora</strong><br />Diseñarás estrategias para mejorar tu ejecución.<br />Aplicarás esas mejoras en la práctica.<br />👉 Objetivo: Mejorar tu técnica a partir del análisis realizado.</p>\n<p> <br /><strong>Actividad 5: Creación del producto final</strong><br />Elaborarás una presentación o infografía.<br />Explicarás tu proceso de mejora.<br />👉 Objetivo: Comunicar tu aprendizaje utilizando herramientas digitales.</p>\n<p> <br /><strong>Actividad 6: Exposición y reflexión</strong><br />Presentarás tu trabajo al grupo.<br />Reflexionarás sobre tu evolución durante el proyecto.<br />👉 Objetivo: Compartir resultados y valorar el aprendizaje.</p>\n<p> <br /><strong>¿Cómo trabajarás?</strong></p>\n<p>- En pequeños grupos<br />- De forma colaborativa<br />- Utilizando herramientas digitales<br />- Respetando a tus compañeros y el material</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaach-rm62ofk9z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaach-rm62ofk9z</odePageId>
+      <odeBlockId>block-1777297178493-sytje1tol</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaach-rm62ofk9z</odePageId>
+          <odeBlockId>block-1777297178493-sytje1tol</odeBlockId>
+          <odeIdeviceId>idevice-1777297178493-drhgzz64a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de este proyecto tendrá en cuenta tanto el proceso de trabajo como el resultado final. No solo se valorará lo que hagas, sino también cómo lo haces, tu implicación y tu evolución a lo largo del proyecto.</p>
+<p> <br /><strong>¿Qué se va a evaluar? </strong>Durante el proyecto se valorarán los siguientes aspectos:</p>
+<p>- La ejecución y mejora del movimiento físico<br />- La capacidad de analizar errores y proponer mejoras<br />- La calidad del producto final<br />- El trabajo en equipo y la colaboración<br />- El uso adecuado y responsable de las herramientas digitales<br /> <br /><strong>¿Cómo se va a evaluar? </strong>Para evaluar el aprendizaje se utilizarán diferentes instrumentos:</p>
+<p>- Lista de cotejo: Se utilizará durante las sesiones prácticas para comprobar:</p>
+<p>       >Participación activa<br />       >Realización de las tareas<br />       >Implicación en el trabajo en grupo<br /> <br /><strong>Rúbrica: </strong>Se aplicará al producto final y tendrá en cuenta:</p>
+<p>Análisis del movimiento<br />Propuestas de mejora<br />Organización y claridad del trabajo<br />Uso de herramientas digitales<br /> <br /><strong>Autoevaluación </strong>(diana de evaluación)<br />El alumnado reflexionará sobre su propio aprendizaje valorando:</p>
+<p>Su implicación<br />Su evolución<br />Sus puntos fuertes y aspectos a mejorar<br /> <br /><strong>¿Cuándo se evaluará?</strong><br />Evaluación inicial: para conocer el punto de partida<br />Evaluación continua: durante todas las actividades del proyecto<br />Evaluación final: tras la entrega y exposición del producto final<br /> <br /><strong>Importante</strong><br />La evaluación tiene como objetivo ayudarte a mejorar. Se valorará tu esfuerzo, tu participación y tu capacidad de aprender durante todo el proceso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777297178493-drhgzz64a","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>La evaluación de este proyecto tendrá en cuenta tanto el proceso de trabajo como el resultado final. No solo se valorará lo que hagas, sino también cómo lo haces, tu implicación y tu evolución a lo largo del proyecto.</p>\n<p> <br /><strong>¿Qué se va a evaluar? </strong>Durante el proyecto se valorarán los siguientes aspectos:</p>\n<p>- La ejecución y mejora del movimiento físico<br />- La capacidad de analizar errores y proponer mejoras<br />- La calidad del producto final<br />- El trabajo en equipo y la colaboración<br />- El uso adecuado y responsable de las herramientas digitales<br /> <br /><strong>¿Cómo se va a evaluar? </strong>Para evaluar el aprendizaje se utilizarán diferentes instrumentos:</p>\n<p>- Lista de cotejo: Se utilizará durante las sesiones prácticas para comprobar:</p>\n<p>       >Participación activa<br />       >Realización de las tareas<br />       >Implicación en el trabajo en grupo<br /> <br /><strong>Rúbrica: </strong>Se aplicará al producto final y tendrá en cuenta:</p>\n<p>Análisis del movimiento<br />Propuestas de mejora<br />Organización y claridad del trabajo<br />Uso de herramientas digitales<br /> <br /><strong>Autoevaluación </strong>(diana de evaluación)<br />El alumnado reflexionará sobre su propio aprendizaje valorando:</p>\n<p>Su implicación<br />Su evolución<br />Sus puntos fuertes y aspectos a mejorar<br /> <br /><strong>¿Cuándo se evaluará?</strong><br />Evaluación inicial: para conocer el punto de partida<br />Evaluación continua: durante todas las actividades del proyecto<br />Evaluación final: tras la entrega y exposición del producto final<br /> <br /><strong>Importante</strong><br />La evaluación tiene como objetivo ayudarte a mejorar. Se valorará tu esfuerzo, tu participación y tu capacidad de aprender durante todo el proceso.</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaach-fb32zr7k0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaach-fb32zr7k0</odePageId>
+      <odeBlockId>block-1777297475775-ju831270w</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaach-fb32zr7k0</odePageId>
+          <odeBlockId>block-1777297475775-ju831270w</odeBlockId>
+          <odeIdeviceId>idevice-1777297475773-2kvz8idqd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto está diseñado para el alumnado de 3º de Educación Secundaria Obligatoria en la materia de Educación Física, con el objetivo de desarrollar tanto competencias motrices como digitales a través del análisis del movimiento y la mejora de la ejecución.</p>
+<p> <br /><strong>RELACIÓN ENTRE TAREAS Y CRITERIOS DE EVALUACIÓN</strong></p>
+<p><br />A continuación, se muestra la relación entre las actividades del proyecto y los criterios de evaluación trabajados:</p>
+<p><strong>Actividad 1</strong>: Observación y análisis inicial<br />👉 Criterio de evaluación: Identificar aspectos técnicos correctos en la ejecución de ejercicios físicos.<br /></p>
+<p><strong>Actividad 2</strong>: Grabación del ejercicio<br />👉 Criterio de evaluación: Participar activamente en actividades físicas utilizando de forma adecuada los recursos disponibles.<br /><strong></strong></p>
+<p><strong>Actividad 3</strong>: Análisis del movimiento<br />👉 Criterio de evaluación: Analizar la propia ejecución y detectar errores.<br /><strong></strong></p>
+<p><strong>Actividad 4</strong>: Propuesta de mejora<br />👉 Criterio de evaluación: Aplicar estrategias para mejorar la ejecución motriz.<br /><strong></strong></p>
+<p><strong>Actividad 5</strong>: Creación del producto final<br />👉 Criterio de evaluación: Elaborar un producto digital utilizando herramientas tecnológicas.<br /><strong></strong></p>
+<p><strong>Actividad 6</strong>: Exposición y reflexión<br />👉 Criterio de evaluación: Comunicar de forma clara el proceso de aprendizaje y reflexionar sobre la propia evolución.<br /> <br /><strong>Metodología</strong><br />Se emplea una metodología activa basada en el aprendizaje por proyectos, donde el alumnado es protagonista de su propio aprendizaje.</p>
+<p>Se fomenta:</p>
+<p>- El trabajo cooperativo<br />- La reflexión sobre la práctica<br />- El uso de herramientas digitales<br />- La autonomía del alumnado<br />- El docente actúa como guía, acompañando el proceso y ofreciendo feedback continuo.</p>
+<p> <br /><strong>Atención a la diversidad (DUA)</strong><br />El proyecto se adapta a las necesidades del alumnado mediante:</p>
+<p>- Diferentes formas de acceso a la información (vídeos, explicaciones, ejemplos)<br />- Posibilidad de elegir herramientas digitales (Canva, Genially…)<br />- Trabajo en grupo para facilitar el apoyo entre iguales<br />- Adaptación del ritmo de trabajo<br /> <br /><strong>Uso de las tecnologías digitales</strong><br />Las tecnologías se utilizan como herramienta para:</p>
+<p>- Analizar el movimiento<br />- Crear contenido digital<br />- Mejorar el aprendizaje<br /></p>
+<p>Se promueve un uso:</p>
+<p>- Responsable<br />- Seguro<br />- Crítico<br /> <br /><em><strong>Observaciones para el profesorado</strong></em><br />Es recomendable supervisar el uso de dispositivos durante las grabaciones<br />Se debe garantizar el respeto a la privacidad del alumnado<br />Se puede adaptar el nivel de exigencia según el grupo<br />El proyecto permite ajustes en función del tiempo disponible</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777297475773-2kvz8idqd","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p>Este proyecto está diseñado para el alumnado de 3º de Educación Secundaria Obligatoria en la materia de Educación Física, con el objetivo de desarrollar tanto competencias motrices como digitales a través del análisis del movimiento y la mejora de la ejecución.</p>\n<p> <br /><strong>RELACIÓN ENTRE TAREAS Y CRITERIOS DE EVALUACIÓN</strong></p>\n<p><br />A continuación, se muestra la relación entre las actividades del proyecto y los criterios de evaluación trabajados:</p>\n<p><strong>Actividad 1</strong>: Observación y análisis inicial<br />👉 Criterio de evaluación: Identificar aspectos técnicos correctos en la ejecución de ejercicios físicos.<br /></p>\n<p><strong>Actividad 2</strong>: Grabación del ejercicio<br />👉 Criterio de evaluación: Participar activamente en actividades físicas utilizando de forma adecuada los recursos disponibles.<br /><strong></strong></p>\n<p><strong>Actividad 3</strong>: Análisis del movimiento<br />👉 Criterio de evaluación: Analizar la propia ejecución y detectar errores.<br /><strong></strong></p>\n<p><strong>Actividad 4</strong>: Propuesta de mejora<br />👉 Criterio de evaluación: Aplicar estrategias para mejorar la ejecución motriz.<br /><strong></strong></p>\n<p><strong>Actividad 5</strong>: Creación del producto final<br />👉 Criterio de evaluación: Elaborar un producto digital utilizando herramientas tecnológicas.<br /><strong></strong></p>\n<p><strong>Actividad 6</strong>: Exposición y reflexión<br />👉 Criterio de evaluación: Comunicar de forma clara el proceso de aprendizaje y reflexionar sobre la propia evolución.<br /> <br /><strong>Metodología</strong><br />Se emplea una metodología activa basada en el aprendizaje por proyectos, donde el alumnado es protagonista de su propio aprendizaje.</p>\n<p>Se fomenta:</p>\n<p>- El trabajo cooperativo<br />- La reflexión sobre la práctica<br />- El uso de herramientas digitales<br />- La autonomía del alumnado<br />- El docente actúa como guía, acompañando el proceso y ofreciendo feedback continuo.</p>\n<p> <br /><strong>Atención a la diversidad (DUA)</strong><br />El proyecto se adapta a las necesidades del alumnado mediante:</p>\n<p>- Diferentes formas de acceso a la información (vídeos, explicaciones, ejemplos)<br />- Posibilidad de elegir herramientas digitales (Canva, Genially…)<br />- Trabajo en grupo para facilitar el apoyo entre iguales<br />- Adaptación del ritmo de trabajo<br /> <br /><strong>Uso de las tecnologías digitales</strong><br />Las tecnologías se utilizan como herramienta para:</p>\n<p>- Analizar el movimiento<br />- Crear contenido digital<br />- Mejorar el aprendizaje<br /></p>\n<p>Se promueve un uso:</p>\n<p>- Responsable<br />- Seguro<br />- Crítico<br /> <br /><em><strong>Observaciones para el profesorado</strong></em><br />Es recomendable supervisar el uso de dispositivos durante las grabaciones<br />Se debe garantizar el respeto a la privacidad del alumnado<br />Se puede adaptar el nivel de exigencia según el grupo<br />El proyecto permite ajustes en función del tiempo disponible</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohfaach-mvmxj5bm3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS y DESCARGA</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS y DESCARGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohfaach-mvmxj5bm3</odePageId>
+      <odeBlockId>block-1777297824305-rvtzdprzc</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohfaach-mvmxj5bm3</odePageId>
+          <odeBlockId>block-1777297824305-rvtzdprzc</odeBlockId>
+          <odeIdeviceId>idevice-1777297824304-sj0r4baa2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autor</strong>:<br />María Calatayud Rodríguez</p>
+<p> <br /><strong>Descripción del recurso</strong><br />Este recurso educativo ha sido diseñado como una Situación de Aprendizaje para el alumnado de Educación Secundaria Obligatoria en la materia de Educación Física.</p>
+<p>El proyecto tiene como objetivo desarrollar la capacidad de análisis del movimiento, la mejora de la ejecución motriz y el uso de herramientas digitales para la creación de contenido.</p>
+<p> <br /><strong>Licencia de uso</strong><br />Este material se comparte bajo licencia:</p>
+<p>- Creative Commons BY-NC-SA</p>
+<p>Esto significa que puede ser utilizado, compartido y adaptado siempre que:</p>
+<p>- Se reconozca la autoría<br />- No se utilice con fines comerciales<br />- Se comparta bajo la misma licencia<br /> <br /><strong>Recursos utilizados</strong><br />- Imágenes y recursos visuales de bancos libres (Pixabay, Pexels, Freepik)<br />- Herramientas digitales como Canva, Genially y Padlet<br />- Contenidos educativos propios y adaptados para el alumnado<br /> <br /><strong>Descarga del archivo editable</strong><br />Puedes descargar el archivo editable del proyecto en el siguiente enlace:</p>
+<p>https://drive.google.com/file/d/1UqZFmDNaDEUbz1MOyK_uKNgSr6QttCA_/view?usp=sharing</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777297824304-sj0r4baa2","textInfoDurationInput":"","textInfoDurationTextInput":"Durata","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Raggruppamento","textTextarea":"<p><strong>Autor</strong>:<br />María Calatayud Rodríguez</p>\n<p> <br /><strong>Descripción del recurso</strong><br />Este recurso educativo ha sido diseñado como una Situación de Aprendizaje para el alumnado de Educación Secundaria Obligatoria en la materia de Educación Física.</p>\n<p>El proyecto tiene como objetivo desarrollar la capacidad de análisis del movimiento, la mejora de la ejecución motriz y el uso de herramientas digitales para la creación de contenido.</p>\n<p> <br /><strong>Licencia de uso</strong><br />Este material se comparte bajo licencia:</p>\n<p>- Creative Commons BY-NC-SA</p>\n<p>Esto significa que puede ser utilizado, compartido y adaptado siempre que:</p>\n<p>- Se reconozca la autoría<br />- No se utilice con fines comerciales<br />- Se comparta bajo la misma licencia<br /> <br /><strong>Recursos utilizados</strong><br />- Imágenes y recursos visuales de bancos libres (Pixabay, Pexels, Freepik)<br />- Herramientas digitales como Canva, Genially y Padlet<br />- Contenidos educativos propios y adaptados para el alumnado<br /> <br /><strong>Descarga del archivo editable</strong><br />Puedes descargar el archivo editable del proyecto en el siguiente enlace:</p>\n<p>https://drive.google.com/file/d/1UqZFmDNaDEUbz1MOyK_uKNgSr6QttCA_/view?usp=sharing</p>","textFeedbackInput":"Mostra feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
